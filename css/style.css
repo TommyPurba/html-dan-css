@@ -1,0 +1,99 @@
+body
+{
+    background-color:hsl(217, 54%, 11%) ;
+    font-size: 18px;
+  
+    
+}
+nav
+{
+      display: flex;
+      height: 100vh;
+}
+.container
+{
+    background-color: hsl(216, 50%, 16%);
+    height: 600px;
+    width: 400px;
+    border-radius: 4%;
+    margin: auto;
+    display: flex;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Outfit', sans-serif; 
+}
+.eth:hover
+{
+   background-image: url(/img/icon-view.svg);
+
+}
+.isi
+{
+    margin: auto;
+    height: 550px;
+    width: 350px;
+}
+.colo
+{
+color: hsl(0, 0%, 100%);
+}
+.colo:hover
+{
+    color: hsl(178, 100%, 50%);
+}
+#ang
+{
+    color: hsl(178, 100%, 50%);
+    margin: auto 0 auto 5px ;
+}
+p
+{
+    
+    color:  hsl(215, 51%, 70%);
+}
+
+.eth
+{
+    height: 320px;
+    width: 350px;
+    border-radius: 4%;
+}
+
+.box
+{
+    display: flex;
+    
+}
+#lup
+{
+    margin: auto 0 auto 5px ;
+}
+.ga1
+{
+    display: flex;
+    width: 300px;
+    height: 20px;
+}
+
+.ga2
+{
+   display: flex;
+   margin-left: 100px;
+    width: 300px;
+    height: 22px;
+   
+}
+/* img
+{
+    float: left ;
+    
+} */
+.ava
+{
+    width: 30px;
+    height: 30px;
+    float: left;
+}
+#roler
+{
+    margin: auto 0 auto 50px;
+}
